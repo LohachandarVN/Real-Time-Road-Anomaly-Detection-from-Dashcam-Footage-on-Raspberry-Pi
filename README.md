@@ -1,0 +1,2 @@
+# Real-Time-Road-Anomaly-Detection-from-Dashcam-Footage-on-Raspberry-Pi
+An Edge AI application designed for the Raspberry Pi that processes dashcam footage in real-time to detect, log, and record road anomalies such as potholes and unexpected obstacles.  This project demonstrates the deployment of lightweight computer vision models on edge hardware, utilizing model optimization techniques that are effiecient.
